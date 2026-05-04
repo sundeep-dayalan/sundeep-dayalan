@@ -19,31 +19,12 @@
 
 Senior software engineer with 5+ years architecting fault-tolerant, high-throughput distributed systems and full-stack applications — spanning real-time fintech, healthtech, LLM orchestration, and multi-agent agentic AI.
 
-- Currently engineering a **production-grade banking platform** at SMBC (Sumitomo Mitsui Banking Corporation) — owning full delivery across 4 squads and 20+ engineers
+- Currently engineering a **production-grade banking platform** — owning full delivery across 4 squads and 20+ engineers
 - Building **MONET** — a multi-agent agentic AI financial platform (LangChain, LangGraph, RAG, Plaid)
 - Building **JOBVIS** — an AI-powered job intelligence and matching platform
 - Published researcher in **Springer LNCS**: *Intelligent Traffic Management using ML and IoT*
 - **Patent pending**: Live Digital Traffic Management System (Bay Detection and Dynamic Queuing)
 - Open to full-time roles in AI engineering, distributed systems, and full-stack product development
-
----
-
-## Experience
-
-| Period | Role | Company / Client |
-|--------|------|-----------------|
-| May 2025 – Present | **Senior Full Stack Engineer** | Radiantze → SMBC (Sumitomo Mitsui Banking Corporation) |
-| May 2024 – Apr 2025 | **Full Stack Software Engineer** | Radiantze → Kaiser Permanente |
-| Jun 2019 – Aug 2022 | **Software Engineer** | Accenture → Kaiser Permanente |
-
-**Key achievements across roles:**
-
-- Kafka event streaming pipeline serving **1M+ users** at **sub-200ms p99** latency — 40% throughput gain
-- Redis clusters with cache warming achieving **99.99% uptime**, 30% p99 latency reduction
-- SSO/MFA with CIAM, OAuth 2.0, OIDC, SAML, SCIM, Ping Identity — **35% auth latency reduction**
-- Distributed tracing (OpenTelemetry + Prometheus/Grafana) across 15+ microservices — **50% faster incident resolution**
-- Terraform/Jenkins GitOps pipelines for 25+ microservices — **60% faster deployments**, zero downtime
-- React MUI component library adopted by **15 teams** — 25% reduction in frontend dev time
 
 ---
 
