@@ -1,54 +1,91 @@
-<!-- <img align="right" alt="GIF" src="https://c.tenor.com/10Zdx_RXqgcAAAAM/programming-crazy.gif" width="450" height="300" />
+<div align="center">
 
-## Hey, I'm [Sundeep Dayalan!](http://sundeepdayalan.in) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Sundeep-D&label=Views&color=blue&style=plastic" alt="Sundeep-D" /> </a>
+# Hi, I'm Sundeep Dayalan
 
-A Google Developer Expert in android and Application Developer from Chennai, India. I love building applications & discussing new product ideas.
-<br/>
-<br/>
-Ask me anything about...
+**Full-Stack Engineer · AI/ML Builder · Mobile Developer**
 
-<img src='https://img.shields.io/badge/android-%3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/firebase-%230095D5?logo=firebase&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/java-%8000?logo=java&logoColor=white&style=for-the-badge' height='25'/>
+*Building AI-powered products that solve real problems*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sundeepdayalan.in-0D47A1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sundeepdayalan.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sundeep-dayalan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sundeepdayalan.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sundeep-D&label=Profile+Views&color=brightgreen&style=for-the-badge)](https://github.com/Sundeep-D)
 
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Mobile app developement
-- 🤔 I’m looking for help for our organisation [Crado](https://github.com/CradoApps)
-- 💬 Apart from tech you can Ask me about Movies, TV Shows
-- 📫 Reach me at contact@sundeepdayalan.in
-- ⚡ Fun fact: I can mentally be present in a meeting for 15-20 minutes. -->
-
-## Hey, I'm [Sundeep Dayalan!](http://sundeepdayalan.in) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Sundeep-D&label=Views&color=blue&style=plastic" alt="Sundeep-D" /> </a>
-
-A Google Developer Expert in android and Application Developer from Chennai, India. I love building applications & discussing new product ideas.
-<br/>
-<br/>
-Ask me anything about...
-
-# 💫About Me :
-🔭 I’m currently working on NodeJs
-🌱 I’m currently learning React
-👯 I’m looking to collaborate on Mobile app developement
-🤔 I’m looking for help for our organisation [Crado](https://github.com/CradoApps)
-💬 Apart from tech you can Ask me about Movies, TV Shows
-📫 Reach me at contact@sundeepdayalan.in
-⚡ Fun fact: I can mentally be present in a meeting for 15-20 minutes.
-
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sundeep.sandi.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sundeep_dayalan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sundeep-dayalan) 
-
-# 💻Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Sundeep-D&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sundeep-D&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundeep-D&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂Developer Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+</div>
 
 ---
-![](https://komarev.com/ghpvc/?username=Sundeep-D&label=Visitors+Count&color=brightgreen)
+
+## About Me
+
+I'm a software engineer passionate about building intelligent systems — from multi-agent AI platforms and Chrome extensions to city-scale computer vision and IoT automation. I work across the full stack with a strong focus on AI/ML integration and product engineering.
+
+- Building **MONET** — a multi-agent agentic AI financial platform
+- Building **JOBVIS** — an AI-powered job intelligence and matching platform
+- Published researcher in Springer LNCS: *Smart Traffic Management*
+- Patent filed for *Live Digital Traffic Management System*
+- Open to full-time roles in AI engineering, full-stack, and product development
+
+---
+
+## Tech Stack
+
+### Languages and Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### AI and ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-10a37f?style=flat-square)
+![Gemini Nano](https://img.shields.io/badge/Gemini_Nano-On_Device-8E24AA?style=flat-square&logo=google&logoColor=white)
+
+### Cloud and DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [MONET](https://github.com/sundeep-dayalan/MONET) | Multi-agent AI financial platform — 93% RAG accuracy, 2.5% monthly ROI | Python · LangChain · Azure · Plaid |
+| [MyFolio](https://github.com/sundeep-dayalan/MyFolio) | Personal wealth portfolio management with Plaid bank integration | TypeScript · React · Azure Functions |
+| [JOBVIS](https://github.com/sundeep-dayalan/JOBVIS) | AI-powered job intelligence — scrape, filter, match with LLM | Python · FastAPI · React · Chrome Extension |
+| [MindKeep](https://github.com/sundeep-dayalan/MindKeep) | 100% local AI second brain Chrome extension — Google Chrome AI Challenge 2025 | TypeScript · React · Gemini Nano |
+| [Traffic Management](https://github.com/sundeep-dayalan/Traffic-Management-with-open-CV) | City-scale CV platform across 50+ intersections · Springer published · Patent filed | C++ · TensorFlow · OpenCV |
+| [WEB HUNTER](https://github.com/sundeep-dayalan/WEB-HUNTER) | Desktop web recon tool — DNS enumeration and SSL analysis | Python · Tkinter |
+| [Smart Home](https://github.com/sundeep-dayalan/Smart_Home) | IoT home automation with voice control and energy monitoring | Android · Arduino · Firebase · MQTT |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sundeep-D&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sundeep-D&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundeep-D&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+**[View Portfolio](https://sundeepdayalan.in) · [Connect on LinkedIn](https://linkedin.com/in/sundeep-dayalan)**
+
+</div>
